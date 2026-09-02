@@ -29,3 +29,4 @@ This Space mirrors the public GitHub repo. The full scored **100** + **80+ promp
 - [Apify Actor Starter Kit](https://github.com/kondasviktor/apify-actor-starter-kit)
 - [Builder story on VCL](https://vibecoderslife.com/post/how-to-create-apify-actors?utm_source=huggingface&utm_medium=space&utm_campaign=awesome-apify-ideas)
 - [Get the Playbook](https://vibecoderslife.com/apify-actor-playbook-toolkit?utm_source=huggingface&utm_medium=space&utm_campaign=awesome-apify-ideas)
+
