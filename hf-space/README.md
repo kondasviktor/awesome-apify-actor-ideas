@@ -6,7 +6,7 @@ colorTo: green
 sdk: static
 pinned: false
 license: mit
-short_description: 20 public-data Apify Actor niche ideas — forkable teaser list.
+short_description: 20 public-data Apify Actor niches — forkable teaser.
 tags:
   - apify
   - web-scraping
