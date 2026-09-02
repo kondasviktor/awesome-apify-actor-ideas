@@ -5,7 +5,7 @@
 [Awesome Apify Actor Ideas](https://github.com/kondasviktor/awesome-apify-actor-ideas) is an open teaser list of **public-data Apify Actor niches** — by [Vibe Coder's Life](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-apify-ideas).
 
 This repo ships **20 curated ideas** (title + category + one-line wedge).  
-The full **scored 100** (difficulty, competition, maintenance, AI opportunity, build-time estimates) + worksheets, prompts, and checklists live in **The Vibe Coder's Playbook**.
+The full **scored 100** (difficulty, competition, maintenance, AI opportunity, build-time estimates) + **80+ prompts**, worksheets, and checklists live in **[The Vibe Coder's Playbook](https://vibecoderslife.com/apify-actor-playbook-toolkit?utm_source=github&utm_medium=readme&utm_campaign=awesome-apify-ideas)**.
 
 > Built for developers, makers, and indie hackers shipping Apify Actors — not for scraping anything behind a login.
 
@@ -17,6 +17,8 @@ Most “Actor idea” threads are either too vague (“scrape X”) or dump prop
 This list is the opposite: **short, forkable, public-data-only wedges** you can validate in Apify Store search before writing code.
 
 Pair with the open [Apify Actor Starter Kit](https://github.com/kondasviktor/apify-actor-starter-kit) (Books to Scrape teaching Actor) when you are ready to scaffold.
+
+**Builder story (how these ideas get used in practice):** [How I create Apify Actors people actually pay to use](https://vibecoderslife.com/post/how-to-create-apify-actors?utm_source=github&utm_medium=readme&utm_campaign=awesome-apify-ideas) — eight live Store listings, the Graveyard, and the Playbook that grew out of the packaging scars.
 
 ---
 
@@ -49,13 +51,11 @@ See the full table in [`ideas.md`](./ideas.md) or download [`ideas.csv`](./ideas
 
 ## Want the full Playbook?
 
-This teaser is free. The Playbook toolkit adds:
+This teaser is free. **[The Vibe Coder's Playbook: Build Apify Actors people will actually pay to use](https://vibecoderslife.com/apify-actor-playbook-toolkit?utm_source=github&utm_medium=readme&utm_campaign=awesome-apify-ideas)** (€37 one-time) adds:
 
 - The **full scored 100 Actor ideas** spreadsheet  
-- PPE margin worksheets, Store checklists, and AI coding prompts  
-- The complete start-to-finish Books demo walkthrough (beyond the open starter kit)
-
-→ [Vibe Coder's Life](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-apify-ideas) (Playbook sales page goes live with the product launch — until then, subscribe on the homepage.)
+- **80+ AI prompts**, PPE margin worksheets, and Store launch checklists  
+- The complete start-to-finish Books demo chapter (beyond the open starter kit)
 
 Runnable teaching Actor: [apify-actor-starter-kit](https://github.com/kondasviktor/apify-actor-starter-kit).
 

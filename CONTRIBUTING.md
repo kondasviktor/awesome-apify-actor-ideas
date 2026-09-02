@@ -19,4 +19,5 @@ Thanks for helping Awesome Apify Actor Ideas stay useful for vibe coders.
 ## Related
 
 - Starter Actor kit: https://github.com/kondasviktor/apify-actor-starter-kit
-- Site: https://vibecoderslife.com/
+- Playbook toolkit: https://vibecoderslife.com/apify-actor-playbook-toolkit?utm_source=github&utm_medium=readme&utm_campaign=awesome-apify-ideas
+- Builder story: https://vibecoderslife.com/post/how-to-create-apify-actors

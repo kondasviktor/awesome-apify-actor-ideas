@@ -4,7 +4,7 @@ Twenty public-data Actor niches you can fork, adapt, and build against.
 
 > **Public-data only.** Do not automate logged-in areas, paywalls, or sources you are not authorized to access.
 
-Full scored list (100 ideas with difficulty, competition, maintenance, AI opportunity, and build-time estimates) ships in [The Vibe Coder's Playbook](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-apify-ideas) toolkit.
+Full scored list (100 ideas with difficulty, competition, maintenance, AI opportunity, and build-time estimates) ships in **[The Vibe Coder's Playbook: Build Apify Actors people will actually pay to use](https://vibecoderslife.com/apify-actor-playbook-toolkit?utm_source=github&utm_medium=readme&utm_campaign=awesome-apify-ideas)**.
 
 | # | Idea | Category | Wedge |
 |---|------|----------|-------|
